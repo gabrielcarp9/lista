@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,TELEFE
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1676071537~exp=1676078737~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=ca577c777df2d80d2b4185f6d0ac878ed15f74ba6b96ab7b54b1ac6016b0c68f
+#EXTINF:-1, A24
+https://edge-vod01-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
+#EXTINF:-1, tele
+http://satline.xyz:8080/live/351668808929875051/6791668808929875/10054.ts
+#EXTINF:-1, quiero
+http://noxsmarters2.com:80/4141asil/b3nT69u9Hp/128426
