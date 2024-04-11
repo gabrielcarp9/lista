@@ -246,6 +246,7 @@
   { "code": "YE", "country": "Yemen" },
   { "code": "YT", "country": "Mayotte" },
   { "code": "ZA", "country": "Sudáfrica" },
+  { "code": "ZA", "country": "Sudafrica" },
   { "code": "ZM", "country": "Zambia" },
   { "code": "ZW", "country": "Zimbabue" },
   { "code": "EN", "country": "Inglaterra" },
