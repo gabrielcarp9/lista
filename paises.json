@@ -234,6 +234,8 @@
   { "code": "UG", "country": "Uganda" },
   { "code": "UM", "country": "Islas Ultramarinas Menores de Estados Unidos" },
   { "code": "US", "country": "Estados Unidos de América" },
+  { "code": "US", "country": "Estados_Unidos_de_América" },
+  { "code": "US", "country": "Estados_Unidos" },
   { "code": "UY", "country": "Uruguay" },
   { "code": "UZ", "country": "Uzbekistán" },
   { "code": "VA", "country": "Ciudad del Vaticano" },
