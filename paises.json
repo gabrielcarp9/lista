@@ -192,6 +192,7 @@
   { "code": "RU", "country": "Rusia" },
   { "code": "RW", "country": "Ruanda" },
   { "code": "SA", "country": "Arabia Saudita" },
+  { "code": "SA", "country": "Arabia_Saudita" },
   { "code": "SB", "country": "Islas Salomón" },
   { "code": "SC", "country": "Seychelles" },
   { "code": "SD", "country": "Sudán" },
