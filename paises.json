@@ -208,6 +208,7 @@
   { "code": "SM", "country": "San Marino" },
   { "code": "SN", "country": "Senegal" },
   { "code": "SO", "country": "Somalia" },
+  { "code": "south-america", "country": "CONMEBOL"},
   { "code": "SR", "country": "Surinám" },
   { "code": "SS", "country": "República de Sudán del Sur" },
   { "code": "ST", "country": "Santo Tomé y Príncipe" },
