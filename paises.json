@@ -68,6 +68,7 @@
   { "code": "ER", "country": "Eritrea" },
   { "code": "ES", "country": "España" },
   { "code": "ET", "country": "Etiopía" },
+  { "code": "europe", "country": "UEFA" },
   { "code": "FI", "country": "Finlandia" },
   { "code": "FJ", "country": "Fiyi" },
   { "code": "FK", "country": "Islas Malvinas" },
