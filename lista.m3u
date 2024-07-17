@@ -1,4 +1,4 @@
 #EXTM3U 
   
-#EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1096469542640013313/i2uMs8b4_400x400.png" group-title="CORDOBA", TELEDIARIO RIO CUARTO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1096469542640013313/i2uMs8b4_400x400.png" group-title="CORDOBA", TELEDIARIO RIO CUARTO
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
