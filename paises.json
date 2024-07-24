@@ -105,6 +105,7 @@
   { "code": "IL", "country": "Israel", "federation": "UEFA" },
   { "code": "IM", "country": "Isla de Man", "federation": "UEFA" },
   { "code": "IN", "country": "India", "federation": "AFC" },
+  { "code": "international", "country": "WORLD", "federation": "WORLD" },
   { "code": "IO", "country": "Territorio Británico del Océano Índico", "federation": "AFC" },
   { "code": "IQ", "country": "Irak", "federation": "AFC" },
   { "code": "IR", "country": "Irán", "federation": "AFC" },
