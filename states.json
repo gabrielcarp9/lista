@@ -1,0 +1,107 @@
+[
+  {
+    "1xbet_state": "",
+    "1xbet_state_code": 1,
+    "sofascore_state": "notstarted",  
+    "sofascore_state_code": 0,   
+    "state": "No Empezado"
+  },
+  {
+    "1xbet_state": "1st half",
+    "1xbet_state_code": 2,
+    "sofascore_state": "inprogress", 
+    "sofascore_state_code": 6,    
+    "state": "Primer Tiempo"
+  },
+  {
+    "1xbet_state": "2nd half",
+    "1xbet_state_code": 2,
+    "sofascore_state": "inprogress", 
+    "sofascore_state_code": 7,    
+    "state": "Segundo Tiempo"
+  },
+  {
+    "1xbet_state": "Half time",
+    "1xbet_state_code": 2,
+    "sofascore_state": "inprogress", 
+    "sofascore_state_code": 31,    
+    "state": "Entretiempo"
+  },
+  {
+    "1xbet_state": "", 
+    "1xbet_state_code": 3,
+    "sofascore_state": "finished",  
+    "sofascore_state_code": 100, 
+    "state": "Finalizado"
+  },
+  {
+    "1xbet_state": "Suspended",
+    "1xbet_state_code": 3,
+    "sofascore_state": "suspended",  
+    "sofascore_state_code": 40, 
+    "state": "Suspendido"
+  },
+  {
+    "1xbet_state": "Cancelled",
+    "1xbet_state_code": 4,
+    "sofascore_state": "cancelled",  
+    "sofascore_state_code": 41, 
+    "state": "Cancelado"
+  },
+  {
+    "1xbet_state": "Postponed",
+    "1xbet_state_code": 5,
+    "sofascore_state": "postponed",  
+    "sofascore_state_code": 42, 
+    "state": "Pospuesto"
+  },
+  {
+    "1xbet_state": "Abandoned",
+    "1xbet_state_code": 6,
+    "sofascore_state": "abandoned",  
+    "sofascore_state_code": 43, 
+    "state": "Abandonado"
+  },
+  {
+    "1xbet_state": "Interrupted",
+    "1xbet_state_code": 7,
+    "sofascore_state": "interrupted",  
+    "sofascore_state_code": 44, 
+    "state": "Interrumpido"
+  },
+  {
+    "1xbet_state": "Rescheduled",
+    "1xbet_state_code": 8,
+    "sofascore_state": "rescheduled",  
+    "sofascore_state_code": 45, 
+    "state": "Reprogramado"
+  },
+  {
+    "1xbet_state": "Extra time",
+    "1xbet_state_code": 9,
+    "sofascore_state": "extra-time",  
+    "sofascore_state_code": 50, 
+    "state": "Prórroga"
+  },
+  {
+    "1xbet_state": "Penalty shootout",
+    "1xbet_state_code": 10,
+    "sofascore_state": "penalties",  
+    "sofascore_state_code": 51, 
+    "state": "Definición por Penales"
+  },
+  {
+    "1xbet_state": "Awarded",
+    "1xbet_state_code": 11,
+    "sofascore_state": "awarded",  
+    "sofascore_state_code": 46, 
+    "state": "Adjudicado"
+  },
+  {
+    "1xbet_state": "Delayed",
+    "1xbet_state_code": 12,
+    "sofascore_state": "delayed",  
+    "sofascore_state_code": 47, 
+    "state": "Retrasado"
+  }
+]
