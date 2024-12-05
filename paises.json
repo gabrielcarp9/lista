@@ -10,6 +10,7 @@
   { "code": "AQ", "country": "Antártida" },
   { "code": "AR", "country": "Argentina", "federation": "CONMEBOL" },
   { "code": "AS", "country": "Samoa Americana", "federation": "OFC" },
+  { "code": "asia", "country": "AFC", "federation": "AFC" },
   { "code": "AT", "country": "Austria", "federation": "UEFA" },
   { "code": "AU", "country": "Australia", "federation": "AFC" },
   { "code": "AW", "country": "Aruba", "federation": "CONCACAF" },
